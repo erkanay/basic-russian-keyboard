@@ -1,0 +1,35 @@
+/**
+ * author : erkan ay
+ * file   : mystyle.css
+ * project: Basic Russian Keyboard
+ */
+body{
+	background:#dee5eb;
+}
+.container{
+	border:1px solid #eee;
+	border-radius:8px;
+	width:700px;
+	margin:0 auto;
+	background:#fff;
+	padding:16px;
+}
+.buyukRussian{
+	background:#ebdecc;
+	padding:4px;
+}
+input[type=button]{
+	font-size:21px;
+	 
+}
+textarea{
+	color:gray;
+	font-weight:bold;
+	font-size:22px; 
+}
+#result{
+	border:2px dotted #eee;
+	padding:2px;
+	font-size:21px;
+	width:100%;
+}
